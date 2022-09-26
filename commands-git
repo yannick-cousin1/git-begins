@@ -5,3 +5,6 @@ Les 3 commandes de push :
 git add --all
 git commit -m "message du commit"
 git push origin master
+
+commande pour pull :
+git pull
