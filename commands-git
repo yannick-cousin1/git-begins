@@ -8,3 +8,11 @@ git push origin master
 
 commande pour pull :
 git pull
+
+commande pour ajouter une nouvelle branche :
+git branch [nom-nouvelle-branche]
+
+commande pour switcher de branche :
+git switch [branche-sur-laquelle-switcher]
+
+
