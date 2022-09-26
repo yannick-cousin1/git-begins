@@ -1,0 +1,7 @@
+Cloner un repo :
+git clone [lien github du repo]
+
+Les 3 commandes de push :
+git add --all
+git commit -m "message du commit"
+git push origin master
