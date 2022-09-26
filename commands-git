@@ -1,0 +1,28 @@
+Cloner un repo :
+git clone [lien github du repo]
+
+Les 3 commandes de push :
+git add --all
+git commit -m "message du commit"
+git push origin master
+
+commande pour pull :
+git pull
+
+commande pour ajouter une nouvelle branche :
+git branch [nom-nouvelle-branche]
+
+commande pour switcher de branche :
+git switch [branche-sur-laquelle-switcher]
+
+commande pour récupérer les checksum de tous les commits
+qui ont eu lieu sur la branche :
+git log
+
+commande pour restaurer un fichier avant un commit identifié par
+git log :
+
+git checkout [checksum_du_commit_identifié]^ [filename]
+
+
+
